@@ -15,7 +15,7 @@ const App = () => {
 
 </div>
     <MapLoader
-      googleMapURL="https://maps.googleapis.com/maps/api/js?sensor=false&libraries=geometry,places,drawing&key=AIzaSyBUOrgrgcGZjf_Wx5fQlWPKGAU-OUDF9qU"
+      googleMapURL="https://maps.googleapis.com/maps/api/js?sensor=false&libraries=geometry,places,drawing&key="
       loadingElement={<div style={{ height: `100%` }} />}
     />
     </div>
