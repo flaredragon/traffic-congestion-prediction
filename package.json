@@ -6,7 +6,7 @@
     "@types/googlemaps": "^3.0.0",
     "@types/markerclustererplus": "^2.1.29",
     "@types/react": "^15.0.0 || ^16.0.0",
-    "papaparse": "^5.0.2",
+    "papaparse": "^5.2.0",
     "react": "16.8.0",
     "react-dom": "16.8.0",
     "react-file-reader": "^1.1.4",
